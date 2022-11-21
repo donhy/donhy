@@ -3,7 +3,7 @@ I'm Don, a Analyst that loves to tell stories with data.
 
 
 ### 📚 Projects 📚
-- For my porfolio, click here: [HERE]()
+- For my porfolio, click here: [HERE](https://github.com/donhy/Portfolio-Guide/blob/main/README.md)
 
 ### 💡 Core Competencies 💡
 - **Software Tools**: Microsoft Office [Excel, PowerPoint, Word], G-Suite [Spreadsheets, Drive, Docs], SQL, Tableau, Power BI
