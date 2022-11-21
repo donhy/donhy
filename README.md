@@ -16,4 +16,4 @@ I'm Don, a Analyst that loves to tell stories with data.
 - Building projects to develop my skills.
 
 🙌🏻 Connect with Me
-[Linkedin] (https://www.linkedin.com/in/don-n-huynh/)
+[Linkedin](https://www.linkedin.com/in/don-n-huynh/)
