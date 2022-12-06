@@ -1,5 +1,5 @@
 # Hello there! 👋
-I'm Don, a Analyst that loves to tell stories with data. 
+I'm Don. I like data and stuff. 
 
 
 ### 📚 Projects 📚
